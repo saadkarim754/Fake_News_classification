@@ -1,2 +1,2 @@
 u can open the file on google collab , and upload the two files Fake.csv and True.csv into the collab/notebook project 
-the files can be found here (https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_)
+the files can be found here (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazFpM3BwYWp1dmZZanlYbnFWbmhZVUo5bzlTZ3xBQ3Jtc0tscWY4c1JTcGxvODZ4Vm1LdmdqVVBTdHFoS2NuTUtkSk1XX1BhWDBtdVBLemJaS3RLNkl2NnRkTDdYS1EwMHNGLUQtSnVNMjFyZl8tcGlPTzg4S3JuVldpaW1UaDhndUptNVVkOE5CTXNaQTdyZGo4dw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1ByadNwMrPyds53cA6SDCHLelTAvIdoF_%3Fusp%3Dsharing&v=U6ieiJAhXQ4)
