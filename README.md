@@ -1,6 +1,6 @@
 # Fake News Classification Project
 
-This project focuses on detecting fake news by leveraging machine learning. We trained a model using datasets of fake and true news articles. 
+This project focuses on detecting fake news by leveraging machine learning. We trained a model using Gradient Boosting, a powerful ensemble learning method, to classify articles as either fake or true.
 
 ## Datasets
 - **Fake.csv**: Contains fake news articles.
@@ -14,11 +14,12 @@ The datasets are publicly available and can be downloaded from [here](https://dr
     - Cleaned and prepared the text for training (e.g., removed special characters, tokenized words).
 
 2. **Model Training**:
-    - Used a classification algorithm to distinguish between fake and true news.
-    - Evaluated the model using metrics like accuracy and F1-score.
+    - Used Gradient Boosting for classification.
+    - Trained the model to distinguish between fake and true news articles.
+    - Evaluated the model using metrics like accuracy, precision, recall, and F1-score.
 
 3. **Prediction**:
-    - Developed a prediction pipeline to classify new articles.
+    - Developed a prediction pipeline to classify new articles as fake or true.
 
 ## Running the Project
 1. Open the `notebook.ipynb` in [Google Colab](https://colab.research.google.com/).
@@ -26,7 +27,7 @@ The datasets are publicly available and can be downloaded from [here](https://dr
 3. Execute the cells step-by-step to see data preprocessing, model training, and evaluation.
 
 ## Results
-Our model achieved an accuracy of XX% on the test dataset.
+Our Gradient Boosting model achieved an accuracy of XX% on the test dataset.
 
 ## Acknowledgments
 Datasets sourced from [Kaggle/Drive](https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_?usp=sharing).
