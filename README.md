@@ -27,7 +27,7 @@ The datasets are publicly available and can be downloaded from [here](https://dr
 3. Execute the cells step-by-step to see data preprocessing, model training, and evaluation.
 
 ## Results
-Our Gradient Boosting model achieved an accuracy of XX% on the test dataset.
+Our Gradient Boosting model achieved an accuracy of 99.7% on the test dataset.
 
 ## Acknowledgments
 Datasets sourced from [Kaggle/Drive](https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_?usp=sharing).
