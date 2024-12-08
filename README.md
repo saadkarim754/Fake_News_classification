@@ -6,7 +6,8 @@ This project focuses on detecting fake news by leveraging machine learning. We t
 - **Fake.csv**: Contains fake news articles.
 - **True.csv**: Contains authentic news articles.
 
-The datasets are publicly available and can be downloaded from [here](https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_?usp=sharing).
+The datasets are publicly available and can be downloaded from [here](https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_?usp=sharing). 
+and [here](https://drive.google.com/drive/folders/1YYrB6bqj_gptS9C44X5ma4gmLTkMfKDr?usp=sharing)
 
 ## Steps:
 1. **Data Preprocessing**:
